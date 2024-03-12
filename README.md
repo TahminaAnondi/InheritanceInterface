@@ -1,0 +1,2 @@
+# InheritanceInterface
+InheritanceInterface
